@@ -57,7 +57,7 @@ As the acceptance criteria has been met, the task is now complete.
 
 Here is a screenshot of the application:
 
-> ![Screenshot of Insomnia and VS Code testing the eCommerce API](./assets/images/screen.png "Screenshot of Insomnia and VS Code testing the eCommerce API")
+> ![Screenshot of Insomnia and VS Code testing the eCommerce API](/assets/images/screen.png "Screenshot of Insomnia and VS Code testing the eCommerce API")
 
 You can view a demo video of the API testing over two videos [HERE](https://drive.google.com/file/d/1PLnKiUuBqfPOCdq5PeGf4kHWWBM5SE6A/view) and [HERE](https://drive.google.com/file/d/1NaUQCCIRKApBBvIaZC_gAAn5u8oOnPTt/view)
 
