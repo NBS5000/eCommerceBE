@@ -26,7 +26,7 @@ Product.belongsToMany(Tag, {
 Tag.belongsToMany(Product, {
   through: ProductTag ,
 })
-sequelize.sync({ force: true });
+// sequelize.sync({ force: true });
 
 module.exports = {
   Product,
